@@ -6,9 +6,9 @@ const Hero = () => {
   return (
     <div className='hero container'>
       <div className="hero-text">
-        <h1>We Ensure better education for a better world</h1>
-        <p>Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excel in the dynamic field of education</p>
-        <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
+        <h1>Elevate your space with style</h1>
+        <p>Elevate your space with style by integrating thoughtful design elements that reflect your unique taste and personality. Whether it's through carefully chosen furniture pieces, artful decor accents, or a harmonious color palette, create an ambiance that inspires and rejuvenates. Let your space speak volumes about who you are, combining functionality with aesthetic appeal to transform every corner into a reflection of elegance and comfort.</p>
+        {/* <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button> */}
       </div>
     </div>
   )
